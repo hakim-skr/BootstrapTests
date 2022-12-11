@@ -1,0 +1,15 @@
+:root {
+    --bot-main-color-1 : #6610F2;
+    --bot-main-color-2 : #977FB1;
+    --bot-main-color-3 : #FCEAFF;
+    --bot-main-color-4 : #63BAAA;
+}
+
+.navbar {
+    background:  var(--bot-main-color-1);
+}
+
+.landing {
+    background-color: #63BAAA;
+    min-height: calc(100vh - 48px);
+}
